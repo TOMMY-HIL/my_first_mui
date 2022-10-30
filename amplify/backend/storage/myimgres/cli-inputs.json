@@ -1,0 +1,14 @@
+{
+  "resourceName": "myimgres",
+  "policyUUID": "5af9af5c",
+  "bucketName": "myfirstmui3ec1e027f51f4e8b867963a96634f80f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
